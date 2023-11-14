@@ -1,0 +1,51 @@
+.custom-nav-links{
+    display: flex;
+    justify-content: space-evenly;
+}
+.department{
+    margin-top: 2vh;
+    font-size: 60px;
+    text-align: center;
+    color: goldenrod;
+}
+.landing-page{
+    display: flex;
+    height: 60vh;
+    width: 100%;
+    margin-top: 10vh;
+    align-items: center;
+}
+/* .heading h1{
+    margin-top: 20px;
+    
+} */
+.landing-image img{
+    height: 400px;
+    width: 500px;
+}
+.project-discription h3{
+    color: brown;
+}
+.project-discription h5{
+    margin-top: 20px;
+    color: rgb(23, 45, 51);
+    line-height: 32px;
+}
+.professor-credit{
+    margin-top: 3vh;
+    /* border: 2px solid rgb(32, 218, 110); */
+    display: flex;
+    height: 200px;
+    justify-content: space-around;
+    align-items: center;
+}
+.professor-credit img {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    border: 3px solid gold;
+    background-color: antiquewhite;
+}
+.professor-credit h5{
+    color: black;
+}
