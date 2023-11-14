@@ -1,2 +1,2 @@
 # MOS_Project
-A website for plotting the Shear Force and Bending Moment diagram. 
+A website for plotting the Shear Force and Bending Moment diagram. The user interacts with a form, providing input values such as the length of the beam, positions of loads and supports, and load magnitudes. Upon submitting the form, the application calculates the shear force and bending moment at various positions along the beam and plots the results on a chart. The project is a practical implementation of structural engineering concepts, allowing users to visualize and analyze the internal forces in a beam under different loading conditions.
